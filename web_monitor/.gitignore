@@ -1,0 +1,26 @@
+# Ignorer les fichiers de configuration sensibles
+key.txt
+
+# Ignorer les répertoires de synthèse et de résultats
+synthesis/
+results/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de cache et temporaires
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.bak
+*.swp
+
+# Ignorer les environnements virtuels
+venv/
+.env/
+
+# Ignorer les fichiers spécifiques à l'IDE
+.vscode/
+.idea/

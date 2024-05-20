@@ -1,0 +1,13 @@
+web_monitor/
+├── venv/
+├── web_monitor/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── monitor.py
+│   ├── utils.py
+├── data/
+│   ├── sites.txt
+│   ├── results.txt
+├── main.py
+├── requirements.txt
+└── README.md

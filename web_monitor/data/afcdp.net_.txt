@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="fr" prefix="og: http://ogp.me/ns#">
+ <head>
+  <base href="https://afcdp.net/" /> 
+  <meta charset="UTF-8" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+  <meta name="fragment" content="!" /> 
+  <link rel="canonical" href="https://afcdp.net/" /> 
+  <meta name="robots" content="index,follow" /> 
+  <meta name="description" content="L’Association Française des Correspondants à la protection des Données à caractère Personnel regroupe les Délégués à la protection des données (DPO) et tout professionnel de la conformité  CNIL" /> 
+  <meta name="msapplication-tilecolor" content="#00AAA7" /> 
+  <meta name="application-name" content="AFCDP" /> 
+  <meta name="apple-mobile-web-app-title" content="AFCDP" /> 
+  <meta name="msapplication-config" content="favicon/browserconfig.xml" /> 
+  <title>AFCDP</title> 
+  <meta property="og:description" content="L’Association Française des Correspondants à la protection des Données à caractère Personnel regroupe les Délégués à la protection des données (DPO) et tout professionnel de la conformité  CNIL" /> 
+  <meta property="og:image" content="https://afcdp.net/media/share-800-600.jpg" /> 
+  <meta property="og:locale" content="fr_FR" /> 
+  <meta property="og:site_name" content="AFCDP" /> 
+  <meta property="og:title" content="AFCDP" /> 
+  <meta property="og:type" content="website" /> 
+  <meta property="og:url" content="https://afcdp.net/" /> 
+  <meta property="twitter:card" content="summary" /> 
+  <meta name="theme-color" content="#00AAA7" /> 
+  <link href="https://afcdp.net/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+ 
+    <link href="https://afcdp.net/favicon/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32" />
+  <link href="https://afcdp.net/favicon/favicon-128x128.png" rel="icon" type="image/png" sizes="128x128" />
+  <link href="https://afcdp.net/favicon/favicon-192x192.png" rel="icon" type="image/png" sizes="192x192" />
+  <link href="https://afcdp.net/favicon/favicon-196x196.png" rel="icon" type="image/png" sizes="196x196" />
+  <link href="https://afcdp.net/favicon/manifest.json" rel="manifest" />
+  <link rel="stylesheet" href="assets/css/theme.min.css?v=153" />
+
+  <link rel="stylesheet" href="assets/css/print.min.css?v=153" media="print" />
+  <link rel="stylesheet" href="assets/css/frontTmp.css?v=153" />
+ </head>
+ <body class="theme-portail home-page sidebarfull">
+  <div class="app-messages seethrough" data-jizy-messaging="app"></div><noscript><div class="app-messages nojs"><div class="alert alert-danger" role="alert"><p>Veuillez activer Javascript sur votre navigateur pour accéder à ce site internet..</p><p><a href="https://www.enable-javascript.com/fr/" target="_blank" rel="noopener">Voici les instructions pour activer JavaScript dans votre navigateur</a></p></div></div></noscript>  
+  
+  <nav><div class="container"><a class="mobile-logo" href="/"><img src="assets/images/header-logo.png?v=153" alt="AFCDP" /></a><button type="button" class="nav-toggler" data-target=".mobile-menu" aria-expanded="false"><span class="sr-only">Afficher le menu</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><div class="mobile-menu"><ul class="nav mobile-mainmenu"><li class="hasIcon"><a class="mi-2" href="/newsletter/"><span class="afcdpicons afcdpicons-newsletter"></span><span>Newsletter</span></a></li><li class="hasIcon"><a class="mi-107" href="/news/"><span class="glyphicons glyphicons-globe"></span><span>Actualités</span></a></li><li class="hasIcon mm"><a class="mi-3 mm-toggle" href="/consignes-pour-les-recruteurs/" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-espaceemploi"></span><span>Espace emplois</span></a><ul class="submenu"><li><a class="mi-11" href="/jobboard/offres/"><span>Offres d’emploi</span></a></li><li><a class="guest mi-117" href="/user/register/"><span>Inscription</span></a></li><li><a class="logMeForm mi-login" href="#"><span>Connexion</span></a></li></ul></li><li class="hasIcon mm"><a class="nolink mi-4 mm-toggle" href="#" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-groupetravail"></span><span>Groupes de travail</span></a><ul class="submenu"><li><span class="nolink">Groupes locaux</span></li><li><a class="mi-119" href="/workgroup/afcdp-monaco/"><span>AFCDP MONACO</span></a></li><li><a class="mi-113" href="/workgroup/afcdp-belgique/"><span>AFCDP Belgique</span></a></li><li><a class="mi-20" href="/workgroup/repas-mensuel-parisien/"><span>Repas mensuel parisien</span></a></li><li><a class="mi-22" href="/workgroup/aquitaine-bordeaux/"><span>Aquitaine - Bordeaux</span></a></li><li><a class="mi-123" href="/workgroup/bretagne-ouest/"><span>Bretagne Ouest</span></a></li><li><a class="mi-120" href="/workgroup/bourgogne-franche-comte/"><span>Bourgogne-Franche-Comté</span></a></li><li><a class="mi-29" href="/workgroup/est/"><span>Grand Est</span></a></li><li><a class="mi-114" href="/workgroup/la-reunion/"><span>La Réunion</span></a></li><li><a class="mi-24" href="/workgroup/centre-val-de-loire/"><span>Centre-Val de Loire</span></a></li><li><a class="mi-31" href="/workgroup/grand-ouest/"><span>Grand Ouest</span></a></li><li><a class="mi-28" href="/workgroup/lyon/"><span>Lyon+</span></a></li><li><a class="mi-105" href="/workgroup/martinique/"><span>Antilles / Guyane</span></a></li><li><a class="mi-21" href="/workgroup/mediterrannee/"><span>Méditerranée Ouest</span></a></li><li><a class="mi-131" href="/workgroup/mediterranee-est/"><span>Méditerranée Est</span></a></li><li><a class="mi-112" href="/workgroup/gard-herault/"><span>Gard / Hérault</span></a></li><li><a class="mi-26" href="/workgroup/normandie/"><span>Normandie</span></a></li><li><a class="mi-30" href="/workgroup/nord/"><span>Nord</span></a></li><li><a class="mi-25" href="/workgroup/poitou-charente/"><span>Poitou Charentes</span></a></li><li><a class="mi-124" href="/workgroup/polynesie-francaise/"><span>Polynésie Française</span></a></li><li><a class="mi-23" href="/workgroup/toulouse/"><span>Toulouse</span></a></li><li><span class="nolink">Groupes thématiques</span></li><li><a class="mi-33" href="/workgroup/donnees-de-sante/"><span>Données de santé</span></a></li><li><a class="mi-38" href="/workgroup/collectivites-locales/"><span>Collectivités Locales</span></a></li><li><a class="mi-39" href="/workgroup/referentiels-certifications-et-labels/"><span>Référentiels, Certifications et Labels</span></a></li><li><a class="mi-40" href="/workgroup/controle-sur-place-de-la-cnil/"><span>Contrôle sur Place de la CNIL</span></a></li><li><a class="mi-43" href="/workgroup/donnees-clients-prospects/"><span>Marketing Digital</span></a></li><li><a class="mi-116" href="/workgroup/medico-social/"><span>Médico-social</span></a></li><li><a class="mi-44" href="/workgroup/flux-transfrontieres/"><span>Flux Transfrontières</span></a></li><li><a class="mi-48" href="/workgroup/ressources-humaines/"><span>Ressources Humaines</span></a></li><li><a class="mi-49" href="/workgroup/reutilisation-de-donnees-publiques/"><span>Réutilisation de données publiques</span></a></li><li><a class="mi-52" href="/workgroup/creer-animer-et-gerer-un-reseau-de-ril-de-cil/"><span>Créer, animer et gérer un réseau de RIL/de CIL</span></a></li><li><a class="mi-53" href="/workgroup/associations-fondations/"><span>Associations / Fondations</span></a></li><li><a class="mi-55" href="/workgroup/logement-social/"><span>Logement social</span></a></li><li><a class="mi-56" href="/workgroup/banque-et-finance/"><span>Banque et finance</span></a></li><li><a class="mi-57" href="/workgroup/falc/"><span>FALC</span></a></li><li><a class="mi-58" href="/workgroup/dpo-externe/"><span>DPO externe</span></a></li><li><a class="mi-122" href="/workgroup/reglement-europeen/"><span>RGPD et autres textes européens</span></a></li><li><a class="mi-134" href="/workgroup/dpo-groupe/"><span>DPO groupe</span></a></li><li><a class="mi-135" href="/workgroup/transports/"><span>Transports</span></a></li><li><a class="mi-136" href="/workgroup/hotellerie-restauration/"><span>Hôtellerie/Restauration</span></a></li><li><a class="mi-138" href="/workgroup/intelligence-artifcielle/"><span>Intelligence Artificielle</span></a></li><li><a class="mi-139" href="/workgroup/action-sociale/"><span>Action sociale</span></a></li></ul></li><li class="hasIcon mm"><a class="nolink mi-5 mm-toggle" href="#" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-conferences"></span><span>Conférences, réunions</span></a><ul class="submenu"><li><a class="mi-59" href="/conferences-reunions-rencontres/"><span>Conférences, Réunions, Rencontres</span></a></li><li><a class="mi-60" href="/prix-et-concours/"><span>Prix et Concours</span></a></li></ul></li><li class="hasIcon mm"><a class="nolink mi-6 mm-toggle" href="#" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-documentation"></span><span>Documentation</span></a><ul class="submenu"><li><a class="mi-61" href="/le-livre-correspondant-informatique-et-libertes-bien-plus-qu-un-metier/" data-slug="le-livre-correspondant-informatique-et-libertes-bien-plus-qu-un-metier"><span>Le livre "Correspondant Informatique et Libertés&nbsp;: bien plus qu’un métier"</span></a></li><li><a class="mi-62" href="/la-bibliotheque-du-dpo/" data-slug="ouvrages"><span>La bibliothèque du DPO</span></a></li><li><a class="mi-63" href="/la-videoteque-du-dpo/" data-slug="videos"><span>La vidéothèque du DPO</span></a></li><li><a class="mi-65" href="/theses-et-memoires/" data-slug="theses-et-memoires"><span>Thèses et Mémoires</span></a></li><li><a class="mi-67" href="/liens-utiles/"><span>Liens utiles</span></a></li><li><a class="mi-68" href="/expression-libre/"><span>Expression libre</span></a></li></ul></li></ul><ul class="nav mobile-topmenu"><li><a class="mi-69" href="/pourquoi-l-afcdp/"><span>Tout sur l’AFCDP</span></a></li><li><a class="mi-70" href="/etude-sur-le-metier-de-dpo/"><span>Tout sur le DPO</span></a></li><li><a class="mi-71" href="/reglement-europeen-rgpd-indexe-commente/"><span>Tout sur le RGPD/I&L</span></a></li></ul></div></div></nav> 
+  
+  <header><div class="container"><div class="box-offset"><div class="full-logo"><div class="logo"><a href="/"><img src="assets/images/header-logo.png?v=153" alt="AFCDP" /></a></div><div class="accroche"><img src="assets/images/accroche.png?v=153" /></div></div><div class="adherer-bloc"><a href="/adhesion/" class="btn btn-lg">Adhérer à l’AFCDP</a></div><div class="sidebox"><div class="search keepvisible" data-searchmodule="true"><div><a href="#" class="sb-h"><span class="glyphicons glyphicons-search"></span><span>Recherche</span></a></div><form action="/search/q/" method="get" class="lg" name="search-module"><div><input type="text" name="q" placeholder="Rechercher&#x20;..." /><span class="field-group-addon"><button class="btn btn-default submit"><span class="glyphicons glyphicons-search"></span></button></span></div><input type="hidden" name="source" value="" /></form></div><div class="navicons"><a href="#" class="user-icon logMeForm" data-toggle="tooltip" title="Espace emploi"><span class="glyphicons glyphicons-user"></span></a><a href="#" data-hasher-url="/json/contact/afcdp/" data-hasher-replace="false" data-toggle="tooltip" title="Nous contacter"><span class="glyphicons glyphicons-envelope"></span></a><a href="#" data-sidebox-trigger="agenda"><span class="afcdpicons afcdpicons-agenda" data-toggle="tooltip" title="Agenda"></span></a><a href="#" data-sidebox-trigger="a-retenir"><span class="afcdpicons afcdpicons-aretenir" data-toggle="tooltip" title="A retenir"></span></a></div><div class="navicons-active-dot"><div></div><div data-sidebox-dot="contact"><span></span></div><div data-sidebox-dot="agenda"><span></span></div><div data-sidebox-dot="a-retenir"><span></span></div></div><div data-sidebox="compte" class="compte guest-box"><a href="#" class="user-icon logMeForm"><span class="glyphicons glyphicons-user"></span><span>Espace emplois</span></a></div><div data-sidebox="contact" class="contact"><a href="#" data-hasher-url="/json/contact/afcdp/" data-hasher-replace="false"><span class="glyphicons glyphicons-envelope"></span><span>Nous contacter</span></a></div><div data-sidebox="agenda" class="agenda"><div class="sb-h"><span class="afcdpicons afcdpicons-agenda"></span><span>Agenda</span></div><ul class="list-unstyled"><li><a href="https://afcdp.net/workgroup/grand-ouest/">31 mai 2024</a><span class="content">Conférence &quot;Grand Ouest&quot;</span></li></ul></div><div data-sidebox="a-retenir" class="a-retenir"><div class="sb-h"><span class="afcdpicons afcdpicons-aretenir"></span><span>A retenir</span></div><ul class="list-unstyled"><li><a href="/charte-de-deontologie-du-dpo/">Charte de Déontologie</a></li><li><a href="/place-de-marche-rgpd/">Place de marché RGPD</a></li><li><a href="/reglement-europeen-rgpd-indexe-commente/">RGPD annoté, commenté, indexé</a></li><li><a href="/pourquoi-l-afcdp/">Pourquoi l’AFCDP ?</a></li><li><a href="/la-videoteque-du-dpo/">Vidéo université du CIL</a></li></ul></div></div></div></div></header> 
+  
+  <div class="sub-header"><div class="container"><div class="box-offset"><div class="topmenu-container"><div class="topmenu"><div><a class="mi-69" href="/pourquoi-l-afcdp/"><span>Tout sur</span> l’<strong>AFCDP</strong></a></div><div><a class="mi-70" href="/etude-sur-le-metier-de-dpo/"><span>Tout sur</span> le <strong>DPO</strong></a></div><div><a class="mi-71" href="/reglement-europeen-rgpd-indexe-commente/"><span>Tout sur</span> le <strong>RGPD / I&L</strong></a></div></div></div></div></div></div> 
+  
+  <main>
+   <div class="mainframe-container">
+    <div class="container">
+     <div class="box-offset">
+      <div class="mainmenu hidden-xs"><div class="hasIcon"><a class="mi-2" href="/newsletter/"><span class="afcdpicons afcdpicons-newsletter"></span><span>Newsletter</span></a></div><div class="hasIcon"><a class="mi-107" href="/news/"><span class="glyphicons glyphicons-globe"></span><span>Actualités</span></a></div><div class="hasIcon mm"><a class="mi-3 mm-toggle" href="/consignes-pour-les-recruteurs/" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-espaceemploi"></span><span>Espace emplois</span></a><div class="accordion-menu"><ul class="list-unstyled"><li><a class="mi-11" href="/jobboard/offres/"><span>Offres d’emploi</span></a></li><li><a class="guest mi-117" href="/user/register/"><span>Inscription</span></a></li><li><a class="logMeForm mi-login" href="#"><span>Connexion</span></a></li></ul></div></div><div class="hasIcon mm"><a class="nolink mi-4 mm-toggle" href="#" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-groupetravail"></span><span>Groupes de travail</span></a><div class="accordion-menu"><ul class="list-unstyled"><li><span class="nolink">Groupes locaux</span></li><li><a class="mi-119" href="/workgroup/afcdp-monaco/"><span>AFCDP MONACO</span></a></li><li><a class="mi-113" href="/workgroup/afcdp-belgique/"><span>AFCDP Belgique</span></a></li><li><a class="mi-20" href="/workgroup/repas-mensuel-parisien/"><span>Repas mensuel parisien</span></a></li><li><a class="mi-22" href="/workgroup/aquitaine-bordeaux/"><span>Aquitaine - Bordeaux</span></a></li><li><a class="mi-123" href="/workgroup/bretagne-ouest/"><span>Bretagne Ouest</span></a></li><li><a class="mi-120" href="/workgroup/bourgogne-franche-comte/"><span>Bourgogne-Franche-Comté</span></a></li><li><a class="mi-29" href="/workgroup/est/"><span>Grand Est</span></a></li><li><a class="mi-114" href="/workgroup/la-reunion/"><span>La Réunion</span></a></li><li><a class="mi-24" href="/workgroup/centre-val-de-loire/"><span>Centre-Val de Loire</span></a></li><li><a class="mi-31" href="/workgroup/grand-ouest/"><span>Grand Ouest</span></a></li><li><a class="mi-28" href="/workgroup/lyon/"><span>Lyon+</span></a></li><li><a class="mi-105" href="/workgroup/martinique/"><span>Antilles / Guyane</span></a></li><li><a class="mi-21" href="/workgroup/mediterrannee/"><span>Méditerranée Ouest</span></a></li><li><a class="mi-131" href="/workgroup/mediterranee-est/"><span>Méditerranée Est</span></a></li><li><a class="mi-112" href="/workgroup/gard-herault/"><span>Gard / Hérault</span></a></li><li><a class="mi-26" href="/workgroup/normandie/"><span>Normandie</span></a></li><li><a class="mi-30" href="/workgroup/nord/"><span>Nord</span></a></li><li><a class="mi-25" href="/workgroup/poitou-charente/"><span>Poitou Charentes</span></a></li><li><a class="mi-124" href="/workgroup/polynesie-francaise/"><span>Polynésie Française</span></a></li><li><a class="mi-23" href="/workgroup/toulouse/"><span>Toulouse</span></a></li><li><span class="nolink">Groupes thématiques</span></li><li><a class="mi-33" href="/workgroup/donnees-de-sante/"><span>Données de santé</span></a></li><li><a class="mi-38" href="/workgroup/collectivites-locales/"><span>Collectivités Locales</span></a></li><li><a class="mi-39" href="/workgroup/referentiels-certifications-et-labels/"><span>Référentiels, Certifications et Labels</span></a></li><li><a class="mi-40" href="/workgroup/controle-sur-place-de-la-cnil/"><span>Contrôle sur Place de la CNIL</span></a></li><li><a class="mi-43" href="/workgroup/donnees-clients-prospects/"><span>Marketing Digital</span></a></li><li><a class="mi-116" href="/workgroup/medico-social/"><span>Médico-social</span></a></li><li><a class="mi-44" href="/workgroup/flux-transfrontieres/"><span>Flux Transfrontières</span></a></li><li><a class="mi-48" href="/workgroup/ressources-humaines/"><span>Ressources Humaines</span></a></li><li><a class="mi-49" href="/workgroup/reutilisation-de-donnees-publiques/"><span>Réutilisation de données publiques</span></a></li><li><a class="mi-52" href="/workgroup/creer-animer-et-gerer-un-reseau-de-ril-de-cil/"><span>Créer, animer et gérer un réseau de RIL/de CIL</span></a></li><li><a class="mi-53" href="/workgroup/associations-fondations/"><span>Associations / Fondations</span></a></li><li><a class="mi-55" href="/workgroup/logement-social/"><span>Logement social</span></a></li><li><a class="mi-56" href="/workgroup/banque-et-finance/"><span>Banque et finance</span></a></li><li><a class="mi-57" href="/workgroup/falc/"><span>FALC</span></a></li><li><a class="mi-58" href="/workgroup/dpo-externe/"><span>DPO externe</span></a></li><li><a class="mi-122" href="/workgroup/reglement-europeen/"><span>RGPD et autres textes européens</span></a></li><li><a class="mi-134" href="/workgroup/dpo-groupe/"><span>DPO groupe</span></a></li><li><a class="mi-135" href="/workgroup/transports/"><span>Transports</span></a></li><li><a class="mi-136" href="/workgroup/hotellerie-restauration/"><span>Hôtellerie/Restauration</span></a></li><li><a class="mi-138" href="/workgroup/intelligence-artifcielle/"><span>Intelligence Artificielle</span></a></li><li><a class="mi-139" href="/workgroup/action-sociale/"><span>Action sociale</span></a></li></ul></div></div><div class="hasIcon mm"><a class="nolink mi-5 mm-toggle" href="#" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-conferences"></span><span>Conférences, réunions</span></a><div class="accordion-menu"><ul class="list-unstyled"><li><a class="mi-59" href="/conferences-reunions-rencontres/"><span>Conférences, Réunions, Rencontres</span></a></li><li><a class="mi-60" href="/prix-et-concours/"><span>Prix et Concours</span></a></li></ul></div></div><div class="hasIcon mm"><a class="nolink mi-6 mm-toggle" href="#" data-toggle="mm" aria-haspopup="true" aria-expanded="false"><span class="afcdpicons afcdpicons-documentation"></span><span>Documentation</span></a><div class="accordion-menu"><ul class="list-unstyled"><li><a class="mi-61" href="/le-livre-correspondant-informatique-et-libertes-bien-plus-qu-un-metier/" data-slug="le-livre-correspondant-informatique-et-libertes-bien-plus-qu-un-metier"><span>Le livre "Correspondant Informatique et Libertés&nbsp;: bien plus qu’un métier"</span></a></li><li><a class="mi-62" href="/la-bibliotheque-du-dpo/" data-slug="ouvrages"><span>La bibliothèque du DPO</span></a></li><li><a class="mi-63" href="/la-videoteque-du-dpo/" data-slug="videos"><span>La vidéothèque du DPO</span></a></li><li><a class="mi-65" href="/theses-et-memoires/" data-slug="theses-et-memoires"><span>Thèses et Mémoires</span></a></li><li><a class="mi-67" href="/liens-utiles/"><span>Liens utiles</span></a></li><li><a class="mi-68" href="/expression-libre/"><span>Expression libre</span></a></li></ul></div></div></div> 
+      <div class="mainframe">
+       <div class="page-contents">
+                <div class="home-items">
+ <a  href="/news/">
+  <figure><img src="media/headlines/2024-02-08-afcdp-18e-universite-des-dpo-web-3241.jpg" /></figure>
+  <footer>Actualités</footer>
+ </a>
+ <a  href="/universite-afcdp-dpo/">
+  <figure><img src="assets/images/home/universites-dpo.jpg" /></figure>
+  <footer>Université AFCDP des DPO</footer>
+ </a>
+ <a  href="/newsletter/">
+  <figure><img src="assets/images/home/newsletter.jpg" /></figure>
+  <footer>La Newsletter du DPO</footer>
+ </a>
+ <a  href="/jobboard/">
+  <figure><img src="assets/images/home/jobboard.jpg" /></figure>
+  <footer>Espace emploi dédié aux DPO</footer>
+ </a>
+ <a  href="/assemblees-generales/">
+  <figure><img src="assets/images/home/assemblees-generales.png" /></figure>
+  <footer>Assemblées générales</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12688b12ce9exh4sdue/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2024-02-09-afcdp-18e-universite-des-dpo-web-6378.jpg" /></figure>
+  <footer>Marie-Laure Denis - Université des DPO 2024</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12688b12cc9azat8b94/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2024-02-09-afcdp-18e-universite-des-dpo-web-5048.jpg" /></figure>
+  <footer>Emmanuel Naegelen - Université des DPO 2024</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12688b12cb9ajcn3uas/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2024-02-08-afcdp-18e-universite-des-dpo-web-4055.jpg" /></figure>
+  <footer>Jérôme Notin - Université des DPO 2024</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12688b12cf7dyo51a2a/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2024-02-08-afcdp-18e-universite-des-dpo-web-3141.jpg" /></figure>
+  <footer>Paul-Olivier Gibert - Université 2024</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12688b12ce4bc07s0o4/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2024-02-09-afcdp-18e-universite-des-dpo-web-5716-1.jpg" /></figure>
+  <footer>Cynthia Chassigneux - Université des DPO 2024</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12688b12ca492ljnwgq/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2024-02-08-afcdp-18e-universite-des-dpo-web-3404.jpg" /></figure>
+  <footer>Anu Talus - Université des DPO 2024</footer>
+ </a>
+ <a  href="https://afcdp.net/accompagnement-des-dpo-en-difficulte/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/afcdp1-2.png" /></figure>
+  <footer>Ligne d&#039;assistance psychologique</footer>
+ </a>
+ <a  href="https://afcdp.ubicast.tv/permalink/v12663780c53d5lz9cyz/iframe/" target="_blank" rel="noopener">
+  <figure><img src="media/carousel/2023-02-09-afcdp-17e-universite-des-dpo-web-5500.jpg" /></figure>
+  <footer>Université - Interview de Philippe Latombe</footer>
+ </a>
+</div>
+                                      </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer><div class="container"><div id="widgetIframe"></div><div class="join-us"><hr class="hidden-xs" /><span class="hidden-xs">Suivez-nous</span><div class="network"><a href="https://www.linkedin.com/company/afcdp" target="_blank" class="notip linkedin" rel="noopener"><span></span></a><a href="https://twitter.com/afcdp" target="_blank" class="notip twitter" rel="noopener"><span></span></a></div><hr class="hidden-xs" /></div><div class="footer-menu"><div><p class="h hidden-xs">Informations</p><nav><a class="mi-100" href="/legal-notice/" target="_blank" data-slug="legal-notice" rel="noopener">Mentions légales</a><a class="mi-102" href="/in-english/" data-slug="in-english">In english</a><a href="javascript:Cooky.show()">Gestion des cookies</a><a href="#" class="hh sm" data-hasher-url="/json/page/credits/">Crédits</a></nav></div><div><nav><a class="mi-125" href="/news/">Actualités</a><a class="mi-126" href="/newsletter/">Newsletter</a><a class="mi-127" href="/adhesion/">Adhérer</a><a class="mi-128" href="/jobboard/">Espace Emplois</a></nav></div><div><p class="h hidden-xs">À retenir</p><nav><a href="/charte-de-deontologie-du-dpo/">Charte de Déontologie</a><a href="/place-de-marche-rgpd/">Place de marché RGPD</a><a href="/reglement-europeen-rgpd-indexe-commente/">RGPD annoté, commenté, indexé</a><a href="/pourquoi-l-afcdp/">Pourquoi l’AFCDP ?</a><a href="/la-videoteque-du-dpo/">Vidéo université du CIL</a></nav></div><div class="subscribe"><p class="h">Lettre d’information</p><p class="i">Recevez les actualités AFCDP</p><div><form action="" name="newsletterEmail"><div class="form-field field-group"><input type="email" name="email" placeholder="Votre adresse email" /><input type="hidden" name="mailing" value="1" /><button class="btn submit">OK</button></div></form></div></div></div><div class="foot-line"><div class="copyright"><span>&copy; 2004-2024 ~ AFCDP</span></div></div></div></footer>  </main>
+
+  <div id="browser"><noscript><p>Veuillez activer Javascript sur votre navigateur pour accéder à ce site internet..</p><p><a href="https://www.enable-javascript.com/fr/" target="_blank" rel="noopener">Voici les instructions pour activer JavaScript dans votre navigateur</a></p></noscript><div style="display:none;"><div><div class="browsercheck-logo"></div><hr /><p class="browser-error"></p><hr /><p>Vous utilisez actuellement un navigateur dont la version n’est plus supportée. Veuillez utiliser l’un des navigateurs suivants :</p><ul class="list-dashed"><li>Windows : <strong>Chrome</strong>, <strong>Firefox</strong>, <strong>Edge</strong></li><li>MacOS : <strong>Safari</strong>, <strong>Chrome</strong>, <strong>Firefox</strong></li><li>Linux : <strong>Chromium</strong></li><li>Mobile : fonctionne de manière optimale sur tout les navigateurs.</li></ul></div></div></div>
+
+<div id="cooky" class="bottom" style="display:none;"><div class="ad-blocker"><p data-cooky-i18n="adblock.enabled"></p><p><strong data-cooky-i18n="adblock.call"></strong></p><button class="btn reload-adblocker"><span class="glyphicons glyphicons-refresh"></span><span data-cooky-i18n="adblock.reload"></span></button></div><div class="privacy"><p data-cooky-i18n="alert.privacy"></p><p><small data-cooky-i18n="alert.desc"></small></p><button class="btn cooky-modal"><span data-cooky-i18n="alert.personalize"></span></button><button class="btn cooky-accept-all"><span data-cooky-i18n="alert.acceptall"></span></button><button class="btn cooky-refuse-all"><span data-cooky-i18n="alert.refuseall"></span></button></div></div><div tabindex="-1" id="cookyModal" aria-labelledby="cookyModalLabel" style="display:none;"><div class="cm-inner"><header><p class="L1" id="cookyModalLabel"><span data-cooky-i18n="main.title"></span></p><button type="button" aria-label="Fermer"><span aria-hidden="true">&times;</span></button></header><section><div class="c-languages"></div><p class="disclaimer" data-cooky-i18n="main.disclaimer"></p><div class="c-message"><p data-cooky-i18n="alert.updated"></p></div><hr /><div class="cooky-d"><p class="L2" data-cooky-i18n="main.acceptAll"></p><div><button class="btn c-allow-all" data-cooky-i18n="service.allow"></button><button class="btn c-deny-all" data-cooky-i18n="service.deny"></button></div></div><div id="cooky-services"></div></section></div></div><div id="cookyModalBackdrop" style="display:none;"></div>
+<script src="vendor/cookie-2.2.0.min.js?v=153"></script> 
+  <script src="vendor/lozad-1.16.0.min.js?v=153"></script>
+ 
+ 
+  <script src="vendor/cooky.min.js?v=153"></script>
+  <script src="vendor/jizy-1.4.8.min.js?v=153"></script>
+
+  <script src="vendor/jizy.front.min.js?v=153"></script>
+  <script src="assets/js/front.min.js?v=153"></script>
+  <script>
+  JiZy.i18n.init('fr', {"NEW_WINDOW":"Nouvelle fen\u00eatre","CONFIRM":"Confirmation","CANCEL":"Annuler","NOTHING_TO_DISPLAY":"Rien \u00e0 afficher","CLOSE":"Fermer","YES":"Oui","NO":"Non","ENCOUNTERED_AN_ERROR":"Une erreur est survenue","ERROR_UNKNOWN":"Erreur de type inconnu"});
+ 
+ 
+
+  JiZy.data.set('popper', 4);  
+
+  JiZy.data.set('cooky', {"dontcare":false,"position":"bottom","quick":true,"refuseAll":true,"user.bgColor":"ffffff","user.fgColor":"000000","user.fontFamily":"Montserrat","user.fontSize":"13px","user.matomoCDN":"piwik.afcdp.net","user.matomoHost":"piwik.afcdp.net","user.matomoId":1,"language":"fr"});  
+
+(function(){
+	var widgetConfig = {
+		token: "S1iNQ7MAETwjU6GBqd0kAzLmSFjSR3CqCZK_IukkqbQ",
+		domainName: "www.cybermalveillance.gouv.fr",
+		mode: "div",
+		description: "",
+		width: "280px",
+		height: "50%",
+		frameColor: '#7C98AB',
+		frameTitleColor: '#FFF',
+		backColor: '',            // Facultatif : Couleur de fond
+		blocksColor: '',          // Facultatif : Couleur de fond des blocs
+		blocksTitleColor: '',     // Facultatif : Couleur des titres des blocs résultat
+		blocksIconColor: '',      // Facultatif : Couleur des icônes des blocs résultat
+		blocksIconBackColor: '',  // Facultatif : Couleur de fond des icônes des blocs résultat (mode page)
+		blocksHoverColor: '',     // Facultatif : Couleur de fond des blocs au passage de la souris
+		blocksActiveColor: '',    // Facultatif : Couleur de fond du bloc actif
+		blocksTextColor: '',      // Facultatif : Couleur du texte des blocs
+		textColor: '',            // Facultatif : Couleur du texte (hors des blocs)
+		buttonsBorderColor: '',   // Facultatif : Couleur de la bordure des boutons
+		buttonsBackColor: '',     // Facultatif : Couleur de fond des boutons
+		buttonsTextColor: '',     // Facultatif : Couleur du texte des boutons
+		pathColor: '',            // Facultatif : Couleur des liens du rappel du parcours (mode page)
+		quotesColor: '',          // Facultatif : Couleur des guillemets entourant le rappel du parcours (mode page)
+	};
+
+	var a=document.createElement('link');
+	a.href = "https://" + widgetConfig.domainName + "/build-widget/style.css";
+	a.rel='stylesheet';
+	document.getElementsByTagName('head')[0].appendChild(a);
+
+	a = document.createElement('script');
+	a.src = "https://" + widgetConfig.domainName + "/build-widget/style.js";
+	a.type='text/javascript';
+	document.getElementsByTagName('head')[0].appendChild(a);
+
+	a = document.createElement('script');
+	a.src = "https://" + widgetConfig.domainName + "/build-widget/app.js";
+	a.type='text/javascript';
+	document.getElementsByTagName('head')[0].appendChild(a);
+	
+	a.onload=function(){
+		loadWidget(widgetConfig);
+	};
+})();
+  </script>
+
+  <script>JiZy.ready(function(){ JiZy.CheckUp.go(); JiZy.Tracker.track('PageView'); });</script>
+  <div class="tooltip" role="alertdialog" id="jTip" aria-hidden="true" aria-live="polite"></div>
+ </body>
+</html>
